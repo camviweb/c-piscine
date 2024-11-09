@@ -1,0 +1,12 @@
+cc -o pour donner nom fichier
+-Wall -Wextra rajoutent des warnings et -Werror t'empeche de compiler avec
+des warnings
+& : indique l'adresse ou le code va chercher la variable
+pointeurs : int *j = &i stocke l'adresse de i, int * pour declarer un
+pointeur vers une variable de type int
+misaligned_var_decl : tab ~ 1 character
+
+int devant main ?
+return ?
+gcc = cc = clang ?
+write(1, &n, 1) ? 
